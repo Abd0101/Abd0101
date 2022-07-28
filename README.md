@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Abd0101
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Abd0101/Abd0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Abdullah Aftab
+- 👀 I’m interested to work as a Software Development
+- 🌱 I’m currently learning C++, Java and Java Script
+- 📫 If you contact with me then mail at aftababdullah25@gmail.com
